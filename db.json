@@ -9,17 +9,17 @@
         "priceFrom": 495,
         "categoryId": 1,
         "categoryName": "Пицца",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Chef_pizza/Chef_pizza_%20big%20_%20traditional%20.png?raw=true"
+        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Пицца/Пицца%20Миксик%20%2B%20набор%20юного%20садовода/c91bba331b664442a00e1f3e795a7807_584x584.webp"
       },
       
             {
         "id": 1,
-        "name": "Пепперони",
-        "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
-        "priceFrom": 395,
+        "name": "Пицца из половинок",
+        "description": "Соберите свою пиццу 35 см с двумя разными вкусами",
+        "priceFrom": 670,
         "categoryId": 1,
         "categoryName": "Пицца",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe.png?raw=true"
+        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Пицца/Пицца%20из%20половинок/3eb52fd02f0348df913beb28f77d766e_584x584.webp"
       },
       
       
