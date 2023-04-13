@@ -101,15 +101,6 @@
         "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Deserty/Sloenye-palochki-s-ananasami-i-brusnikoi/b61244b188fa4bcaa5c751f970954ffb_584x584.jpg?raw=true"
       },
       {
-        "id": 12,
-        "name": "Слоеные палочки с ананасами и шоколадным соусом",
-        "description": "Здесь все сразу — брусника и ананас со сгущенкой на слоеном тесте",
-        "priceFrom": 249,
-        "categoryId": 4,
-        "categoryName": "Десерты",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Deserty/Sloenye-palochki-s-ananasami-i-shokoladnym-sousom/78154409949e4937b205a8500bb3eacf_584x584.jpg?raw=true"
-      },
-      {
         "id": 13,
         "name": "Добрый Кола",
         "description": "0,5 л",
