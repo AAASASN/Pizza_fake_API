@@ -136,15 +136,6 @@
         "categoryName": "Напитки",
         "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Napitki/Dobryi-Apel'sin/f501c8e65f574f00bc7ab6ec4720e602_584x584.jpg?raw=true"
       },
-      {
-        "id": 16,
-        "name": "Додо Книги 1+2",
-        "description": "Набор из двух книг — «Додо Книга 1» и «Додо Книга 2». Рассказываем об истории, ценностях и развитии компании",
-        "priceFrom": 195,
-        "categoryId": 6,
-        "categoryName": "Другие товары",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Drugie-tovary/Dodo-Knigi-1%2B2/1907efcc085340128135fc6239499e74_584x584.jpg?raw=true"
-      },
 
       {
         "id": 18,
