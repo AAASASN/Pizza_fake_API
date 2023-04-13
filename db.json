@@ -145,15 +145,7 @@
         "categoryName": "Другие товары",
         "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Drugie-tovary/Dodo-Knigi-1%2B2/1907efcc085340128135fc6239499e74_584x584.jpg?raw=true"
       },
-      {
-        "id": 17,
-        "name": "Додо Раскраска",
-        "description": "Чтобы обед был не только сытным, но и веселым",
-        "priceFrom": 10,
-        "categoryId": 6,
-        "categoryName": "Другие товары",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Drugie-tovary/Dodo-Raskraska/1011bb408c7649c08512e62db380ab4e_584x584.jpg?raw=true"
-      },
+
       {
         "id": 18,
         "name": "Додо Клюв",
