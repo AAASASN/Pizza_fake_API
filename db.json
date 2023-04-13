@@ -2,54 +2,38 @@
   "data": {
     "menu": [
       
-            {
+      {
         "id": 1,
         "name": "Пицца Миксик + набор юного садовода",
         "description": "Пицца четвертинками с ветчиной, цыпленком, томатами, брынзой, моцареллой, фирменным соусом альфредо",
         "priceFrom": 495,
         "categoryId": 1,
         "categoryName": "Пицца",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Pizza/Pizza%20Mixik%20%2B%20a%20set%20of%20a%20young%20gardener/c91bba331b664442a00e1f3e795a7807_584x584.jpg?raw=true"
+        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Pizza/Picca-Miksik-nabor-yunogo-sadovoda/c91bba331b664442a00e1f3e795a7807_584x584.jpg?raw=true"
       },
-      
-            {
-        "id": 1,
+      {
+        "id": 2,
         "name": "Пицца из половинок",
         "description": "Соберите свою пиццу 35 см с двумя разными вкусами",
         "priceFrom": 670,
         "categoryId": 1,
         "categoryName": "Пицца",
-        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Pizza/pizza%20from%20halves/3eb52fd02f0348df913beb28f77d766e_584x584.webp"
-      },
-      
-      
-      {
-        "id": 1,
-        "name": "Пепперони",
-        "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
-        "priceFrom": 395,
-        "categoryId": 1,
-        "categoryName": "Пицца",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe.png?raw=true"
-      },
-      {
-        "id": 2,
-        "name": "Маргарита",
-        "description": "Увеличенная порция моцареллы, томаты, итальянские травы, томатный соус",
-        "priceFrom": 345,
-        "categoryId": 1,
-        "categoryName": "Пицца",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe2.png?raw=true"
+        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Pizza/Picca-iz-polovinok/3eb52fd02f0348df913beb28f77d766e_584x584.jpg?raw=true"
       },
       {
         "id": 3,
-        "name": "Ветчина и грибы",
-        "description": "Ветчина, шампиньоны, увеличенная порция моцареллы, томатный соус",
-        "priceFrom": 315,
+        "name": "Пицца от шефа",
+        "description": "Пастрами из говядины, сладкий перец, томаты, красный лук, чеснок, соус ткемали, моцарелла, фирменный томатный соус",
+        "priceFrom": 689,
         "categoryId": 1,
         "categoryName": "Пицца",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe3-5.jpeg?raw=true"
+        "image": "https://github.com/AAASASN/Test_Task_3_db/blob/main/Images/Pizza/Picca-ot-shefa/d7bbbc4c74af442e8b9b3ea2faf3c941_584x584.jpg?raw=true"
       },
+    
+    
+    
+    
+    
       {
         "id": 4,
         "name": "Комбо за 599 ₽",
